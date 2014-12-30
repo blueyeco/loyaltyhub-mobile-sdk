@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'BlueyeHub' target in the 'BlueyeHub' project
+//
+
+#ifdef __OBJC__
+    //import <Cocoa/Cocoa.h>
+    #import <FacebookSDK/FacebookSDK.h>
+#endif
